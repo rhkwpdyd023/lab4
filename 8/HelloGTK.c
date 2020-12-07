@@ -1,3 +1,4 @@
+/* HelloGTK.c */
 #include <gtk/gtk.h>
 /* 콜백 함수 */
 static void destroy(GtkWidget*widget, gpointer data){
